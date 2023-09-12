@@ -21,7 +21,7 @@ python3 cib.py
 
 ## License
 
-This project is licensed under the GPL License. See the [LICENSE]([https://github.com/wilsonceron/infoamazonia_bot/blob/main/LICENSE.md](https://github.com/Unifesp-DMSO/Coordinator-Inauthentic-Behavior-Facebook/blob/main/LICENSE)) file for more information.
+This project is licensed under the GPL License. See the [LICENSE](https://github.com/Unifesp-DMSO/Coordinator-Inauthentic-Behavior-Facebook/blob/main/LICENSE) file for more information.
 Contact
 
 For any inquiries or feedback, please contact the project maintainer: Wilson Ceron.
