@@ -16,16 +16,14 @@ You can use the provided Python script "cib.py" to analyze coordinated inauthent
 
 ```bash
 python3 cib.py
+```
 
 
 ## License
 
-This code is open-source and available under the MIT License. For more details, please see the License section.
+This project is licensed under the GPL License. See the [LICENSE]([https://github.com/wilsonceron/infoamazonia_bot/blob/main/LICENSE.md](https://github.com/Unifesp-DMSO/Coordinator-Inauthentic-Behavior-Facebook/blob/main/LICENSE)) file for more information.
 Contact
 
-For any questions or inquiries, please contact:
+For any inquiries or feedback, please contact the project maintainer: Wilson Ceron.
 
-    Wilson Ceron
-        Email: wilsonseron@gmail.com
-        Date: 15/08/2021
 
