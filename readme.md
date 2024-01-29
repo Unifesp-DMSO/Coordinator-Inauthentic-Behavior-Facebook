@@ -30,6 +30,5 @@ Contact
 This project was partially funded by the University of Amsterdam’s RPA Human(e) AI and by the European Union’s Horizon 2020 research and innovation program No 951911 (AI4Media).
 
 
-For any inquiries or feedback, please contact the project maintainer: Wilson Ceron (mailto:wilson.seron@unifesp.br?subject=[GitHub - Disinformation Echo-chambers on Facebook]).
-
+For any inquiries or feedback, please contact the project maintainer: Wilson Ceron (mailto:wilson.seron@unifesp.br?subject=[GitHub]%20Disinformation%20Echo-chambers%20on%20Facebook).   
 
